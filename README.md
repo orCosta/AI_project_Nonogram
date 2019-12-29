@@ -1,4 +1,6 @@
 # AI_FinalProj
+![image](https://user-images.githubusercontent.com/44048156/71555141-26be6f00-2a31-11ea-8baf-0052df358439.png)
+
 
 The project contains the next files:
 
