@@ -15,3 +15,4 @@ Runs the main function that get game and solve it. The runner can read the board
 
 Display.py:
 contains the function that print the board and some more.
+![image](https://user-images.githubusercontent.com/44048156/71555155-58cfd100-2a31-11ea-8671-a552cde8ded9.png)
